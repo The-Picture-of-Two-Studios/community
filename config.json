@@ -1,0 +1,14 @@
+{
+  "guild": "1545766637603659818",
+  "bugForum": "bug-reports",
+  "trackedTag": "Tracked",
+  "games": {
+    "Isekai Architect": "The-Picture-of-Two-Studios/IsekaiArchitect"
+  },
+  "types": {
+    "Gameplay": "gameplay",
+    "Visual": "visual",
+    "Server": "server",
+    "Crash": "crash"
+  }
+}
